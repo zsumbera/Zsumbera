@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Szia, Olivér vagyok!
 
-<!--
-**zsumbera/Zsumbera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mérnökinformatika szakos egyetemi hallgató  
+🚀 Nyitott, motivált és fejlődésorientált
 
-Here are some ideas to get you started:
+Egyetemistaként célom, hogy minél szélesebb körben szerezzek tapasztalatot a szoftverfejlesztés területén. Nem egyetlen technológiára fókuszálok, hanem a problémamegoldásra, a rendszerszintű gondolkodásra és a folyamatos fejlődésre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Érdekel a frontend és a backend fejlesztés, az algoritmusok világa, valamint a modern szoftverarchitektúrák. Gyorsan tanulok, szeretek csapatban dolgozni, és nem riadok vissza az új technológiák elsajátításától.
+
+---
+
+## 🛠 Technikai ismeretek
+
+**Programozási nyelvek**
+- Java  
+- C++  
+- JavaScript  
+- TypeScript  
+
+**Webes technológiák**
+- React  
+- Vite  
+- Mantine UI  
+- Material UI  
+- HTML / CSS  
+
+**Backend alapok**
+- Node.js  
+- Express  
+- REST API alapok  
+
+**Eszközök**
+- Git & GitHub  
+- Figma  
+
+---
+
+
+✨Hiszek abban, hogy a jó fejlesztő nem csak kódol, hanem gondolkodik, kérdez és fejlődik.✨
