@@ -8,20 +8,7 @@
 
 💡 Building scalable, clean, and user-focused applications
 
-  
-
 ---
-
-  
-
-## 🔗 Connect with me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](#)
-
----
-
 
 ## ⚡ About Me
 
@@ -36,45 +23,27 @@
   
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
-  
+💻 Languages
 
-### 💻 Languages
+Java • C++ • JavaScript • TypeScript • Python • C# • MATLAB • SQL
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+🌐 Frontend
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+React • Vite • Mantine UI • Material UI • HTML • CSS
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+⚙️ Backend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+Node.js • Express • REST APIs • PostgreSQL
 
-### 🌐 Frontend
+🧰 Tools
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
+Git • GitHub • Figma • SVN
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+🤖 AI / ML
 
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?logo=mantine&logoColor=white)
-
-![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
-  
+Python • PyTorch • Machine Learning basics • Neural Networks
 
 ---
 ### 🚀 Featured Projects
